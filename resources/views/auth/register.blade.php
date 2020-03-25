@@ -67,7 +67,6 @@
                             <div class="col-md-6">
                                 <select class="form-control" name="role" id="role">
                                     <option>Doctor</option>
-                                    <option>Patient</option>
                                     <option>Nurse</option>
                                     <option>Hospital</option>
                                     <option>Company</option>
